@@ -25,6 +25,7 @@ It is a readable starting point for the analysis workflow, not a script regenera
 | [`operando_analysis_device1.ipynb`](operando_analysis_device1.ipynb) | the analysis notebook, with outputs |
 | [`requirements.txt`](requirements.txt) | Python dependencies |
 | [`data/`](data/) | where to put the raw data (not version-controlled) |
+| [`LICENSE`](LICENSE) | MIT License |
 
 ## Quick start
 
@@ -99,6 +100,10 @@ If you use this code or data, please cite the paper and the dataset:
   doi       = {10.6084/m9.figshare.33269229}
 }
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). The data are distributed via figshare under their own terms.
 
 ## Contact
 
