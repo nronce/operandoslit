@@ -1,0 +1,7 @@
+# raw data: download from figshare, see data/README.md
+data/*
+!data/README.md
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
